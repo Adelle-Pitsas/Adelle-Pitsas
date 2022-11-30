@@ -1,7 +1,9 @@
-### Hi there 👋
+<h1 align="center"> Hi there! I'm Adelle. </h1>
+### I'm a front-end software engineer with experience in Javascript, HTML5, CSS, React, and Test Driven Development. I’m deeply curious and strive to bring creativity, accessibility, and sustainability to all projects.  I am looking for an opportunity that allows me to make a meaningful impact.
+
+
 
 <!--
-**Adelle-Pitsas/Adelle-Pitsas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
